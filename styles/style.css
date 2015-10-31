@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  background-color: #222;
+  color: white;
+}
+
+.l7logo-wrapper {
+  height: 50vmin;
+  width: 50vmin;
+  margin: 22vh auto 1vmin auto;
+  padding: 1vmin;
+  background-color: #EEE;
+  border-radius: 0 13% 0 13%;
+}
+
+.subtag {
+  font-size: 5vmin;
+  font-family: 'Source Sans Pro', sans-serif;
+  letter-spacing: 3vmin;
+  cursor: default;
+}
